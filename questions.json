@@ -1,0 +1,224 @@
+{
+  "heading": "Homophones",
+  "topics": [
+    {
+      "heading": "Homophones",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the homophone that means \"to take a quick look\":",
+          "options": [
+            { "text": "peak" },
+            { "text": "peek" },
+            { "text": "pick" }
+          ],
+          "answer": 1,
+          "explanation": "\"Peek\" is the right word. It means to take a quick, often secret look at something. \"Peak\" is the top of a mountain, and \"pick\" means to choose something. Only \"peek\" means to take a quick look."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word completes the sentence: The ____ bird sang a pretty song.",
+          "options": [
+            { "text": "mail" },
+            { "text": "male" },
+            { "text": "meal" }
+          ],
+          "answer": 1,
+          "explanation": "\"Male\" is correct. It means a boy animal. In many bird species, the male birds sing more than the females. \"Mail\" means letters and packages sent to people, and \"meal\" is the food you eat."
+        },
+        {
+          "questionNo": 3,
+          "question": "Choose the correct homophone: The cat has long ____ on its paws.",
+          "options": [
+            { "text": "hare" },
+            { "text": "here" },
+            { "text": "hair" }
+          ],
+          "answer": 2,
+          "explanation": "\"Hair\" is correct. It means the thin, thread-like growths on the skin of people and animals. Cats have hair on their paws. \"Hare\" is an animal like a big rabbit, and \"here\" means in this place."
+        },
+        {
+          "questionNo": 4,
+          "question": "Select the homophone that means \"letters and packages\":",
+          "options": [
+            { "text": "mail" },
+            { "text": "male" }
+          ],
+          "answer": 0,
+          "explanation": "\"Mail\" is the right word. It means letters, cards, and packages that are sent or delivered to people. \"Male\" means a boy person or animal."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word fits? Please ____ a moment before entering.",
+          "options": [
+            { "text": "weight" },
+            { "text": "wait" },
+            { "text": "wet" }
+          ],
+          "answer": 1,
+          "explanation": "\"Wait\" is the right word. It means to stay in one place or pause before doing something. \"Weight\" is how heavy something is, and \"wet\" means covered in water."
+        },
+        {
+          "questionNo": 6,
+          "question": "Choose the right homophone: Is this the ____ answer?",
+          "options": [
+            { "text": "right" },
+            { "text": "write" },
+            { "text": "rite" }
+          ],
+          "answer": 0,
+          "explanation": "\"Right\" is the correct word. In this sentence, it means correct or accurate. \"Write\" means to put words on paper, and \"rite\" is a special ceremony."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word completes the sentence: I want a ____ of pie.",
+          "options": [
+            { "text": "peace" },
+            { "text": "piece" },
+            { "text": "peas" }
+          ],
+          "answer": 1,
+          "explanation": "\"Piece\" is the right word. It means a part or portion of something, like a slice of pie. \"Peace\" means when everything is calm and there's no fighting, and \"peas\" are small, round, green vegetables."
+        },
+        {
+          "questionNo": 8,
+          "question": "Select the correct homophone: The ____ was bumpy and full of potholes.",
+          "options": [
+            { "text": "road" },
+            { "text": "rode" }
+          ],
+          "answer": 0,
+          "explanation": "\"Road\" is correct. It's the path that cars and other vehicles travel on. \"Rode\" is the past tense of ‘ride.’"
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the word that means \"to understand\": The dog ____ many tricks.",
+          "options": [
+            { "text": "nose" },
+            { "text": "knows" },
+            { "text": "no's" }
+          ],
+          "answer": 1,
+          "explanation": "\"Knows\" is the right word. It means to understand or have information about something. Dogs can learn and remember tricks. \"Nose\" is the part of the face used for smelling."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which word fits? From the mountain ____, we could see for miles.",
+          "options": [
+            { "text": "peak" },
+            { "text": "peek" }
+          ],
+          "answer": 0,
+          "explanation": "\"Peak\" is correct. It means the very top of a mountain. \"Peek\" means to take a quick look."
+        },
+        {
+          "questionNo": 11,
+          "question": "Select the right word: The postman delivered the ____ to our house.",
+          "options": [
+            { "text": "male" },
+            { "text": "mail" },
+            { "text": "meal" }
+          ],
+          "answer": 1,
+          "explanation": "\"Mail\" is the right word. It means letters, cards, and packages that are delivered to people. A postman delivers mail. \"Male\" means a boy person or animal, and \"meal\" is the food you eat."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word completes the sentence: What is the ______ of this box?",
+          "options": [
+            { "text": "wait" },
+            { "text": "weight" }
+          ],
+          "answer": 1,
+          "explanation": "\"Weight\" is the right word. It means how heavy something is. When asking about a box, you're asking about its weight. \"Wait\" means to stay in one place."
+        },
+        {
+          "questionNo": 13,
+          "question": "Select the homophone that means \"to put words on paper\":",
+          "options": [
+            { "text": "right" },
+            { "text": "rite" },
+            { "text": "write" }
+          ],
+          "answer": 2,
+          "explanation": "\"Write\" is correct. It means to put words on paper or type them on a computer. \"Right\" means correct or the opposite of left, and \"rite\" is a special ceremony."
+        },
+        {
+          "questionNo": 14,
+          "question": "Choose the correct homophone: The dog wagged its ____. ",
+          "options": [
+            { "text": "tail" },
+            { "text": "tale" }
+          ],
+          "answer": 0,
+          "explanation": "\"Tail\" is the right word here. It means the long, furry part at the end of a dog's body that wags when it's happy. \"Tale\" sounds the same but means a story, which doesn't make sense for a dog to wag!"
+        },
+        {
+          "questionNo": 15,
+          "question": "Select the homophone pair:",
+          "options": [
+            { "text": "cat - dog" },
+            { "text": "run - ran" },
+            { "text": "buy - by" }
+          ],
+          "answer": 2,
+          "explanation": "\"Buy\" and \"by\" are homophones. They sound exactly the same when we say them out loud, but they have different meanings and spellings. \"Buy\" means to purchase something, while \"by\" can mean next to or near something."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which pair of words are homophones?",
+          "options": [
+            { "text": "cat - hat" },
+            { "text": "blue - blew" },
+            { "text": "dog - dig" }
+          ],
+          "answer": 1,
+          "explanation": "\"Blue\" and \"blew\" are homophones. They sound exactly the same but have different meanings and spellings. \"Blue\" is a colour, while \"blew\" is the past tense of ‘blow’, like when you blow out candles on a birthday cake."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word completes the sentence: The sun will ____ in the east.",
+          "options": [
+            { "text": "rise" },
+            { "text": "rice" }
+          ],
+          "answer": 0,
+          "explanation": "\"Rise\" is the right word. It means to go up or come above the horizon, which is what the sun does in the morning. \"Rice\" is a food."
+        },
+        {
+          "questionNo": 18,
+          "question": "Select the homophone pair:",
+          "options": [
+            { "text": "write - right" },
+            { "text": "pencil - pen" },
+            { "text": "book - look" }
+          ],
+          "answer": 0,
+          "explanation": "\"Write\" and \"right\" are homophones. They sound exactly the same but have different meanings. \"Write\" means to put words on paper, while \"right\" can mean correct or the opposite of left."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which pair of words are homophones?",
+          "options": [
+            { "text": "run - fun" },
+            { "text": "look - book" },
+            { "text": "see - sea" }
+          ],
+          "answer": 2,
+          "explanation": "\"See\" and \"sea\" are homophones. They sound exactly the same but have different meanings. \"See\" means to use your eyes to look at something, while \"sea\" is a large body of water."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word completes the sentence: The cat caught a ____. ",
+          "options": [
+            { "text": "mouse" },
+            { "text": "mousse" },
+            { "text": "moose" }
+          ],
+          "answer": 0,
+          "explanation": "\"Mouse\" is the right word. It's a small animal that cats often chase."
+        }
+      ]
+    }
+  ]
+}
